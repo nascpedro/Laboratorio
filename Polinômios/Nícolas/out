@@ -1,0 +1,14 @@
+Digite um polinômio: 
+P(x) = 
+Digite o intervalo a ser calculada a área de P(x)
+Ponto inicial: 
+Ponto final: 
+
+A primitiva é: 0.0 2.0 0.5 1.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+
+Os sinais são: 0++-0000000
+
+O valor em 2 é -2.0
+O valor em 1 é 1.5
+
+O valor é: -3.5
